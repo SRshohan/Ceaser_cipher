@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://fxedvqiraihwtrpd",
+            "request": "launch",
+            "url": "http://fxedvqiraihwtrpd"
+        }
+    ]
+}
